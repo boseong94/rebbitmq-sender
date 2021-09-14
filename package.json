@@ -1,0 +1,23 @@
+{
+  "name": "rebbitmq-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node send.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boseong94/rebbitmq-sender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boseong94/rebbitmq-sender/issues"
+  },
+  "homepage": "https://github.com/boseong94/rebbitmq-sender#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
